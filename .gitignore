@@ -1,0 +1,19 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+
+# Ignore IDE files
+/.idea/
+/*.iml
+/*.log
+/vscode/
+/nbproject/
+/build/
+/target/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
